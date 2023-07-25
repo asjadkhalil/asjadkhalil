@@ -1,6 +1,6 @@
 # 💫About Me :
 - 🔭 I’m currently working in MERN/MEAN stack.
-- 🌱 I’m currently learning new NodeJS frameworks.
+- 🌱 Learning new NodeJS frameworks.
 - 📫 Reach me at:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/asjad-khalil-bb1b26130/) 
 - ⚡ Fun fact: ~~undefined~~ 
 
